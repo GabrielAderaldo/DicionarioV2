@@ -1,0 +1,6 @@
+C:\Users\Gader\source\repos\DicionarioV2\DicionarioV2\bin\Debug\DicionarioV2.dll
+C:\Users\Gader\source\repos\DicionarioV2\DicionarioV2\bin\Debug\DicionarioV2.pdb
+C:\Users\Gader\source\repos\DicionarioV2\DicionarioV2\obj\Debug\DicionarioV2.csprojAssemblyReference.cache
+C:\Users\Gader\source\repos\DicionarioV2\DicionarioV2\obj\Debug\DicionarioV2.csproj.CoreCompileInputs.cache
+C:\Users\Gader\source\repos\DicionarioV2\DicionarioV2\obj\Debug\DicionarioV2.dll
+C:\Users\Gader\source\repos\DicionarioV2\DicionarioV2\obj\Debug\DicionarioV2.pdb
